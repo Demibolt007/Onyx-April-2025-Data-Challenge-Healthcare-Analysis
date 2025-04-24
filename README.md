@@ -20,7 +20,7 @@ This analysis explores a synthetic healthcare dataset to uncover patterns in med
 ## Data Source
 This dataset was provided by **Onyx Data** as part of their **April 2025 Data DNA Challenge**.
 
-Download the dataset here: [Healthcare Analysis Dataset.xlsx](./Healthcare%20Analysis%20Dataset.xlsx)
+Download the dataset here: [Healthcare Analysis Dataset](./Healthcare%20Analysis%20Dataset.xlsx)
 
 ---
 
@@ -89,7 +89,7 @@ Download the dataset here: [Healthcare Analysis Dataset.xlsx](./Healthcare%20Ana
 ---
 
 ## Link to Viz
-👉 **Explore the full dashboard here:** [Healthcare Analysis Full Report.xlsx](./Healthcare%20Analysis%20Full%20Report.xlsx)
+👉 **Explore the full dashboard here:** [Healthcare Analysis Full Report](./Healthcare%20Analysis%20Full%20Report.xlsx)
 
 
 ---
