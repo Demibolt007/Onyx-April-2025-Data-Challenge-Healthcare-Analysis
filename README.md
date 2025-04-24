@@ -32,11 +32,13 @@ Download the dataset here: [Healthcare Analysis Dataset](./Healthcare%20Analysis
 
 ## Dashboard
 ### Page 1: Patient Demographics & Medical Overview
-![Page 1](https://github.com/user-attachments/assets/4f1c8653-259c-461d-b888-cd633d6af92f)
+![Screenshot 2024](https://github.com/user-attachments/assets/1d53349b-d7c2-4123-9938-c167bc798f6a)
+
 
 
 ### Page 2: Clinical & Operational Insights
-![Page 2](https://github.com/user-attachments/assets/38113705-41ac-415f-8274-624313b5668a)
+![Screenshot 2025](https://github.com/user-attachments/assets/44bde1d3-0450-4363-b169-791483bc52f7)
+
 
 
 ---
@@ -96,10 +98,6 @@ Download the dataset here: [Healthcare Analysis Dataset](./Healthcare%20Analysis
 
 ## Conclusion
 This healthcare analysis revealed patterns in patient demographics, medical conditions, test outcomes, billing practices, and hospital operations. These insights can inform stakeholders, from healthcare providers to policymakers, on how to optimize healthcare delivery, allocate resources, and prioritize patient wellness across the board. The data emphasizes the importance of early detection, continuous monitoring, and targeted interventions in chronic disease management.
-
----
-
-_Authored by Oluwademilade “Demibolt”_
 
 ---
 
